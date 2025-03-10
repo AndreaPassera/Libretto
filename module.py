@@ -1,7 +1,7 @@
+from math import sin
 import math as m
-from math import cos
-x = 3.14
 
-print(m.sin(x))
-print(cos(x))
-print("ciao")
+x=3.14
+
+print(sin(x))
+print(m.cos(x))
